@@ -1,0 +1,7 @@
+
+SELECT GENERO,AGRUPA_EDAD_PERSONA
+FROM (
+      SELECT GENERO, AGRUPA_EDAD_PERSONA,conteo,RANK() OVER (PARTITION BY GENERO ORDER BY conteo DESC) AS rango
+    FROM {{ ref("agrupa_no_reportados")}}
+)
+WHERE rango = 1

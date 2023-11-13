@@ -1,0 +1,16 @@
+
+version: 2
+
+sources:
+  - name: Hurto
+    database: mineria-2023
+    tables:
+      - name: H_Total_Al
+        description: "Tabla donde se encuentra toda la información disposible a cerca de los hurtos en colombia"
+      - name: H_TotalPrueba
+        description: "Tabla donde se encuentra toda la información disposible a cerca de los hurtos en colombia usada para pruebas, como respaldo"
+      - name: HurtosColombia
+        description: "Tabla limpia"
+      - name: Hurtos
+        description: "Tabla limpia"
+

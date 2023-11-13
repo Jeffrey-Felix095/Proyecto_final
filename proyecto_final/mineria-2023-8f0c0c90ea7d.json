@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mineria-2023",
+  "private_key_id": "8f0c0c90ea7da57975e4689b800795e83ce8c537",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjnzVbbbtAcnlL\n8QEOUtTQmijioMcXaH3Xyb63GFH0JQSFa0CDweHVZlqAQOChQfrx7jcF+0rmSRYh\ng1W/Xs+Iyj7E7CI2QoEm7JiP4k74ejNE2KzVOvsqIj8UC+mo9NRXT3k3rQPeF8Xx\nc+LdMv7hDAP6XpuVSYCELGuQBN7+uuh5WOMmnQJ1HjuYnR9aDu/TZIRkWQtULw/l\nAA+wliKvvsebnXAEbqQ+nTrBhCPVG8c6yHhLZP/9cGfhRh2xhvQw9iBRey4jhZWi\nW5QADMPoS5vH6GJXKhH6t7NuLuGjbEo/SupFq//xZLNHhnqrDNIiYq/1H+H5G8kh\nhbW3h7XPAgMBAAECggEALk+yRQIOhYPBJEb/IwQ72x0/JEIYh94Z/FlMYzt9esp9\neJvuQzy9xG53gCScz9fChPaFWWqSfRLDslGflA5sVE3WLVuepVf2gUNnPRZzfq3r\n0/k2FhZfH8JYsz5Z8On3Lg0/BIyycwqsipZf6Hb2IFGL0LI1fDA1MXP3L+jJCzT8\nwUA19pVSvHRIvJ/efFLqtWlIJmGEVjjAYORwRhVznwxYVUfVPIEDg090g/Wzq06v\nJSWY4RBdhmx+hw7XxGNjMpkfNPT3PcgYKUX0ekhAtknqMrUZF/hlu+QVTxq/SEhJ\nHwMSq5C9SIKYpl/QbNxN+srlHpIZn6r6X2uA/6lbLQKBgQDdQVxlyNrWLMCCVCp1\n9AqNY1D4BoabZikPTtnArFyo/culbQjJ6V3tgppdTVO3Be04zAlQ96dK4xuZ+Mox\n/M2pRM/CO1bkcm5AigSdZZy4yAE/quDmj3ZzaP+B50SnP0oqvcO+mty3PGAUqiDo\naISMLpK7XKplHJyeXsxX4tPdwwKBgQC9UPBVxjawjb41y1RjTQ89DbJaw4aJPoej\nx8JxZrKjPGFXo1dKLhtqisGVDjKKrKIgOIpPQDyq7XbYTnCpXmIXJgbHqZFOL/xj\nDLQ0p+IrkInWWKw1AEye0g/XHVnbuvQx6Yr011izp2CkUKS75ROG0n3juXJtm4xa\nbi5w1t8LBQKBgDK5lmZbexhZIDWA+E8ciQLLPzftvxSHgmhZCoEqwv+XWAXwDnDE\nCN238I3teYDfYfiAhq5CaN85XA2bxTdanwfsl7kPA6fSOEahndc8AYc3i1m+YltZ\njq185/8vN0UktGtCIEtlk66Kr/hs3KiLtb+xucAsyX/u5FVGpJCNl0cjAoGAYS/n\n8WCsOr7JYvxa+g9ZP1KEuSufKV28bEvkeirqkfoxTrg/24kH8g4Biu+a6q3tHPVp\nq32ip2z4kdrS41/co12WJXHbcnQX8RFYgZ+d8Bdna25iGWNp8i6MizY6Jx82tVjb\nSQ40LyZB6piruPnEqHXuwrU1FSfBSbs+hBcKsbECgYEAqdVh3+ZHdcX+UIP9oWZP\n58lHY/hIjxjrYPDvJ0C67KudQgju01RZmHI38xlxB45V2UZtJqWrtqKlhMdQzy12\ncregfrTtRrCLuIAoDAek1zkcbOh1Qy3VVghEvYYHdcleK8ep5VazPcaOlhRsYLI3\nDnVcJQKsgF8I6tBOaQwxH1E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mindatos@mineria-2023.iam.gserviceaccount.com",
+  "client_id": "117351815881360718235",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mindatos%40mineria-2023.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

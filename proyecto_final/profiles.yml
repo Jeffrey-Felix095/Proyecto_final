@@ -1,0 +1,14 @@
+proyecto_final:
+  outputs:
+    dev:
+      dataset: Hurto
+      job_execution_timeout_seconds: 1200
+      job_retries: 1
+      keyfile: mineria-2023-8f0c0c90ea7d.json
+      location: US
+      method: service-account
+      priority: interactive
+      project: mineria-2023
+      threads: 2
+      type: bigquery
+  target: dev
